@@ -10,7 +10,7 @@ const GetStarted = () =>(
           <p className="font-poppins font-medium text-[18px] leading-[23px] mr-3 text-blue-50 group-hover:text-black group-hover:font-semibold">
             Get
           </p>
-          <img src={arrowUp} alt="arrowUp" className="w-[23px] h-[23px] object-contain"/>
+          <img src={arrowUp} alt="arrowUp" className="w-[23px] h-[23px] object-contain group-hover:fill-black"/>
         </div>
         <p className="font-poppins font-medium text-[18px] leading-[23px] text-blue-50 group-hover:text-black group-hover:font-semibold">
               Started
